@@ -1,0 +1,46 @@
+    HOW to use GIT?
+    https://youtu.be/MLKQ6sqtL3g
+
+# Materials
+
+## Links
+
+- For those who use Windows 10+
+
+	- [Oficcial Microsoft WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+
+	- [VSCode WSL plugin](https://code.visualstudio.com/learn/develop-cloud/wsl)
+
+    - For those who don't know which code editor to choose.
+
+	- [VSCode docs](https://code.visualstudio.com/docs/setup/windows)
+
+	- [Getting Started with Python](https://www.youtube.com/watch?v=E9U-EBG8jVk)
+
+## Rulset
+
+- Not only English is acceptable. But it still be preferable
+
+- The Homework is just a **PUBLIC** link for the **Pull Request**, which I can review and, based on that, provide the best feedback
+
+- Why? Because this is how you can reflect the whole history of the development process. This is how you can create multiple homework candidates; it is Industry standard to use such platforms for collaboration (as a result of previous statements).
+
+
+
+# Plan
+
+- Speak about Python basics
+
+    - Namespaces in Python
+
+    - Functional approach in Python
+
+    - OOP approach in Python
+
+	- Attributes lookup
+
+	- Environment configuration
+
+    - Setup a new repository
+
+	- SSH keys
